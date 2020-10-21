@@ -10,12 +10,14 @@ class App extends Component {
     render() {
     	return(
     		<div id="main">
-    			//Do no remove this main div!!
-    			//Make a p tag with id para
-    			//make a button with id click
-    			//Implement functionality on clicking button, the text in para changes form "" 
-    			// to "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy"
-    			//and remains the same after first click.(No change on further clicking).
+				{ 
+				// Do not remove this main div!!
+    			// Make a button with id="click"
+    			// Implement functionality: On button click, a new element should appear with the text
+				// to "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy".
+				// This text is supposed to be in p tags with id="para"
+				// This element remains as is after the first click. (No change on further clicking). */
+				}
     		</div>
     		);
     }
