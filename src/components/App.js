@@ -19,7 +19,6 @@ class App extends Component {
           onClick={() =>
             this.setState({
               para:
-                this.state.para +
                 "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy"
             })
           }
